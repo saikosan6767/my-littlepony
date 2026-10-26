@@ -36,11 +36,3 @@ jobs:
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
-[7 фото]
-1. https://vk.ru/photo836566145_457239394
-2. https://vk.ru/photo836566145_457239393
-3. https://vk.ru/photo836566145_457239395
-4. https://vk.ru/photo836566145_457239396
-5. https://vk.ru/photo836566145_457239397
-6. https://vk.ru/photo836566145_457239398
-7. https://vk.ru/photo836566145_457239399
